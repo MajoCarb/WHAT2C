@@ -1,0 +1,2 @@
+1. El archivo a ejecutar es el de main.py
+2. Se tendrá que instalar el módulo de IMDb con "pip install imdbpy", al igual que requests, bs4 y pillow
